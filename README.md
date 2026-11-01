@@ -1,5 +1,3 @@
-# 👋 hey, i'm Nada!
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1600&amp;color=9966CC&amp;center=true&amp;vCenter=true&amp;width=660&amp;height=55&amp;lines=Hi+there+%3A%29%3BAI%2FML+Engineer+%C2%B7+Agents+%26+LLMs" alt="Hi there! AI/ML Engineer · Agents &amp; LLMs" />
 </p>
