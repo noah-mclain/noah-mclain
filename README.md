@@ -2,13 +2,14 @@
 
 # hey, i'm Nada 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1800&color=C084FC&center=true&vCenter=true&width=440&height=45&lines=AI%2FML+engineer;Agents%2C+LLMs+%26+practical+software" alt="AI/ML engineer working on agents, LLMs and practical software" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1800&color=9966CC&center=true&vCenter=true&width=440&height=45&lines=AI%2FML+engineer;Agents%2C+LLMs+%26+practical+software" alt="AI/ML engineer working on agents, LLMs and practical software" />
 
 Based in Cairo · CS graduate with Honors · Open to AI/ML roles
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-take_a_look-C084FC?style=for-the-badge&labelColor=242033)](https://noah-mclain.github.io/portfolio-site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-let's_connect-F0ABFC?style=for-the-badge&labelColor=242033)](https://www.linkedin.com/in/nada-mohamed-300305ma/)
-[![Email](https://img.shields.io/badge/Email-say_hello-F9A8D4?style=for-the-badge&labelColor=242033)](mailto:nadamo.cs@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-take_a_look-4169E1?style=for-the-badge&labelColor=171225)](http://nadaa.ddnsfree.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-let's_connect-6B3FA0?style=for-the-badge&labelColor=171225)](https://www.linkedin.com/in/nada-mohamed-300305ma/)
+[![CV](https://img.shields.io/badge/CV-download-046A38?style=for-the-badge&labelColor=171225)](http://nadaa.ddnsfree.com/Nada-Mohamed-CV.pdf)
+[![Email](https://img.shields.io/badge/Email-say_hello-9B111E?style=for-the-badge&labelColor=171225)](mailto:nadamo.cs@gmail.com)
 
 </div>
 
@@ -24,18 +25,10 @@ I built **Payramid**, an award-winning blockchain payroll platform, and interned
 - [**OverClocked**](https://github.com/noah-mclain/OverClocked) · Hardware and software performance monitoring.
 - [**My portfolio**](https://github.com/noah-mclain/portfolio-site) · Projects, experience, and a bit more about me.
 
-<details>
-<summary>some GitHub stats ✨</summary>
-<br />
+## around GitHub
 
-<div align="center">
+<a href="https://ghfind.com/en/u/noah-mclain">
+  <img src="assets/github-profile.svg" width="440" alt="Ghfind profile snapshot: level 49, top 43 percent of indexed developers" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=noah-mclain&show_icons=true&hide_border=true&bg_color=00000000&title_color=C084FC&icon_color=F9A8D4&text_color=9CA3AF&hide_rank=true" width="440" alt="Nada's GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah-mclain&layout=compact&langs_count=6&hide=Jupyter%20Notebook&hide_border=true&bg_color=00000000&title_color=C084FC&text_color=9CA3AF" width="350" alt="Most-used languages across Nada's public repositories" />
-
-</div>
-
-<sub>These cards use a third-party service and may occasionally be unavailable.</sub>
-
-</details>
+<sub>Ghfind snapshot · 1 November 2026 · [View current profile](https://ghfind.com/en/u/noah-mclain)</sub>
