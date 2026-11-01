@@ -7,7 +7,7 @@
 Based in Cairo · CS graduate with Honors · Open to AI/ML roles
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-take_a_look-4169E1?style=for-the-badge&labelColor=171225)](http://nadaa.ddnsfree.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-let's_connect-6B3FA0?style=for-the-badge&labelColor=171225)](https://www.linkedin.com/in/nada-mohamed-300305ma/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-let's_connect-6B3FA0?style=for-the-badge&labelColor=171225)](https://www.linkedin.com/in/nada-ahmed-300305ma/)
 [![CV](https://img.shields.io/badge/CV-download-046A38?style=for-the-badge&labelColor=171225)](http://nadaa.ddnsfree.com/Nada-Mohamed-CV.pdf)
 [![Email](https://img.shields.io/badge/Email-say_hello-9B111E?style=for-the-badge&labelColor=171225)](mailto:nadamo.cs@gmail.com)
 
