@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="230" viewBox="0 0 560 230" role="img" aria-labelledby="title desc">
+<title id="title">Nada’s GitHub activity</title>
+<desc id="desc">Public repository stars and GitHub contributions from January through October 2026. Ghfind ranking is a separate third-party score. Snapshot: 1 November 2026.</desc>
+<rect x="1" y="1" width="558" height="228" rx="7" fill="#191525" stroke="#B8A7D4"/>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#E9E4F4">
+<g transform="translate(25 22)" fill="none" stroke="#B4A0E5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="m10 1 2.8 5.7 6.3.9-4.6 4.4 1.1 6.3L10 15.3l-5.6 3 1.1-6.3L1 7.6l6.2-.9Z"/></g>
+<text x="60" y="37" font-weight="600">Stars earned:</text>
+<text x="245" y="37" font-weight="600">1</text>
+<g transform="translate(25 54)" fill="none" stroke="#B4A0E5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="4"/><path d="M0 10h6m8 0h6"/></g>
+<text x="60" y="69" font-weight="600">Commits:</text>
+<text x="245" y="69" font-weight="600">582</text>
+<g transform="translate(25 86)" fill="none" stroke="#B4A0E5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="3" r="2"/><circle cx="5" cy="17" r="2"/><circle cx="16" cy="17" r="2"/><path d="M5 5v10m11 0V7q0-4-5-4m2-3-3 3 3 3"/></g>
+<text x="60" y="101" font-weight="600">Pull requests:</text>
+<text x="245" y="101" font-weight="600">78</text>
+<g transform="translate(25 118)" fill="none" stroke="#B4A0E5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="10" r="8"/><path d="M10 5v6m0 3v1"/></g>
+<text x="60" y="133" font-weight="600">Issues:</text>
+<text x="245" y="133" font-weight="600">0</text>
+<g transform="translate(25 150)" fill="none" stroke="#B4A0E5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 2h13v16H4q-3 0-3-3V5q0-3 3-3Zm0 0v12h13M1 15q0-1 3-1"/></g>
+<text x="60" y="165" font-weight="600">Contributed to:</text>
+<text x="245" y="165" font-weight="600">8 repositories</text>
+</g>
+<circle cx="452" cy="101" r="48" fill="none" stroke="#352A4D" stroke-width="8"/>
+<circle cx="452" cy="101" r="48" fill="none" stroke="#9966CC" stroke-width="8" stroke-linecap="round" stroke-dasharray="173.4 301.6" transform="rotate(-90 452 101)"/>
+<g fill="#E9E4F4" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif"><text x="452" y="92" font-size="17" font-weight="600">Top</text><text x="452" y="119" font-size="24" font-weight="700">43%</text><text x="452" y="171" font-size="11" fill="#B8A7D4">ghfind ranking</text></g>
+<text x="25" y="211" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#AAA1BA">Contributions: Jan–Oct 2026 · Stars: public original repos · Snapshot: 1 Nov 2026</text>
+</svg>
