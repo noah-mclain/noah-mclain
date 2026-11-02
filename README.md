@@ -9,4 +9,4 @@ Computer Science graduate and AI/ML engineer based in Cairo. I build intelligent
   <a href="https://ghfind.com/en/u/noah-mclain"><img src="assets/activity.svg" width="440" height="180" alt="GitHub activity: 582 commits and 78 pull requests from January through October 2026; ghfind top 43 percent. Snapshot: 1 November 2026." /></a>
 </p>
 
-find more at [nadaa.dev](nadaa.dev)
+find more at [nadaa.dev](https://nadaa.dev/)
